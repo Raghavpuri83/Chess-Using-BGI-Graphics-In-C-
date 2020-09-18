@@ -1,6 +1,8 @@
-ChessBoard
-----------
-Description: I Made this project during my B.Tech. This chessboard is made by using BGI Graphics In C++
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chess-Using-BGI-Graphics-In-C++
+------------------------------
+
+Description: I Made this project during my B.Tech. This chessboard is made by using BGI Graphics In C++.
+
 Just copy the two files in C:\TURBOC3\BIN and open FINALC~1.cpp in Turbo c++...
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
